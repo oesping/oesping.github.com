@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Walk around lose kernel]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-05-27T21:53:34+08:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Ping]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[IDL problem]]></title>
+    <link href="http://yoursite.com/blog/2013/05/27/idl-problem/"/>
+    <updated>2013-05-27T20:56:00+08:00</updated>
+    <id>http://yoursite.com/blog/2013/05/27/idl-problem</id>
+    <content type="html"><![CDATA[<p><img class="centre" src="http://yoursite.com/images/self/527.jpg" width="350" height="400" title="'screen'" ></p>
+
+<p>goes sat from 1 to 15,give a full observe of the sun and the earth</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[test of me]]></title>
+    <link href="http://yoursite.com/blog/2013/05/26/test-of-me/"/>
+    <updated>2013-05-26T21:01:00+08:00</updated>
+    <id>http://yoursite.com/blog/2013/05/26/test-of-me</id>
+    <content type="html"><![CDATA[<p>pic show
+<img class="right" src="http://yoursite.com/images/self/quote.jpg" width="150" height="250" title="Place Kitten #3" >
+<img class="left" src="http://yoursite.com/images/self/fish.jpg" width="350" height="400" title="'image''images'" ></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[time of me]]></title>
+    <link href="http://yoursite.com/blog/2013/05/26/time-of-me/"/>
+    <updated>2013-05-26T20:06:00+08:00</updated>
+    <id>http://yoursite.com/blog/2013/05/26/time-of-me</id>
+    <content type="html"><![CDATA[<p>This is a regular paragraph.</p>
+
+<table>
+    <tr>
+        <td>&#8220;google&#8221;</td>
+    </tr>
+    <tr>
+        <td>&#8220;apj&#8221;</td>
+    </tr>
+</table>
+
+
+<p>This is another regular paragraph.
+;;
+resume linux:
+login with root
+skill -kill -u (user name)
+if only zombie:
+top scan PID
+ps aux
+ps -u (user name)</p>
+]]></content>
+  </entry>
+  
+</feed>
