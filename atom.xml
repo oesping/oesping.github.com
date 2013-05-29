@@ -4,7 +4,7 @@
   <title><![CDATA[Walk around lose kernel]]></title>
   <link href="http://oesping.github.io/atom.xml" rel="self"/>
   <link href="http://oesping.github.io/"/>
-  <updated>2013-05-30T01:49:39+08:00</updated>
+  <updated>2013-05-30T02:19:50+08:00</updated>
   <id>http://oesping.github.io/</id>
   <author>
     <name><![CDATA[Ping]]></name>
@@ -40,20 +40,15 @@
     <link href="http://oesping.github.io/blog/2013/05/26/time-of-me/"/>
     <updated>2013-05-26T20:06:00+08:00</updated>
     <id>http://oesping.github.io/blog/2013/05/26/time-of-me</id>
-    <content type="html"><![CDATA[<p>This is a my loved things on web .</p>
+    <content type="html"><![CDATA[<p>my compution life
+This is a my loved things on web .</p>
 
-<table>
-    <tr>               <tr>              <tr>            <tr>
-        <td>google</td></td>facebook</td></td>github</td></td>quora</td>
-    </tr>
-    <tr>               <tr>              <tr>            <tr>
-        <td>douban</td></td>weibo</td></td>Bybh</td></td>guokr</td>
-    </tr>
-    <tr>               <tr>              <tr>            <tr>
-        </td>skype</td></td>qq</td></td>icq</td></td>gtalk</td></td>
-    </tr>
-</table>
-
+<p>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;  | &mdash;&mdash;&mdash;&mdash;&ndash; | &mdash;&mdash;&mdash;&mdash;&ndash;|
+international   |  google   | facebook |  github
+mainland        |  douban   |  weibo   |  Bybh <br/>
+UI              |  skype    |  qq,icq  |  gtalk <br/>
+language        |   IDL     |   word   |  python
+major           |   OE      |   ASTRO  |  &hellip;..</p>
 
 <p>;;</p>
 
