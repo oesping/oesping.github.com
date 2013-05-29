@@ -4,7 +4,7 @@
   <title><![CDATA[Walk around lose kernel]]></title>
   <link href="http://oesping.github.io/atom.xml" rel="self"/>
   <link href="http://oesping.github.io/"/>
-  <updated>2013-05-30T02:37:43+08:00</updated>
+  <updated>2013-05-30T02:44:02+08:00</updated>
   <id>http://oesping.github.io/</id>
   <author>
     <name><![CDATA[Ping]]></name>
@@ -43,17 +43,31 @@
     <content type="html"><![CDATA[<p>my compution life
 This is a my loved things on web .</p>
 
-<p><table class="table table-bordered table-striped table-condensed">
-<tr></p>
+<table class="table table-bordered table-striped table-condensed">
+<tr>    
+    international   |  google   | facebook |  github  
+    mainland        |  douban   |  weibo   |  Bybh   
+    UI              |  skype    |  qq,icq  |  gtalk   
+    language        |   IDL     |   word   |  python
+    major           |   OE      |   ASTRO  |  &#8230;..
+</tr>
+ <tr>
+          <td>  international     google    facebook     github  </td>
+     </tr>
+     <tr>
+          <td>  mainland          douban     weibo         Bybh   </td>
+     </tr>
+     <tr>
+          <td>  UI                      skype       qq,icq         gtalk   </td>
+     </tr>
+     <tr>
+          <td>  language            IDL          word         python</td>
+     </tr>
+     <tr>
+          <td>  major                  OE         ASTRO         &#8230;..</td>
+     </tr>
+</table>
 
-<pre><code>international   |  google   | facebook |  github  
-mainland        |  douban   |  weibo   |  Bybh   
-UI              |  skype    |  qq,icq  |  gtalk   
-language        |   IDL     |   word   |  python
-major           |   OE      |   ASTRO  |  .....
-</code></pre>
-
-<p></tr></p>
 
 <p>;;</p>
 
