@@ -4,7 +4,7 @@
   <title><![CDATA[Walk around lose kernel]]></title>
   <link href="http://oesping.github.io/atom.xml" rel="self"/>
   <link href="http://oesping.github.io/"/>
-  <updated>2013-06-09T00:18:55+08:00</updated>
+  <updated>2013-06-09T00:23:55+08:00</updated>
   <id>http://oesping.github.io/</id>
   <author>
     <name><![CDATA[Ping]]></name>
@@ -32,7 +32,7 @@
 
 <h2>lovely dog</h2>
 
-<p><img class="left" src="http://oesping.github.io/images/self/dog.jpg" width="350" height="400" title="screen" ></p></blockquote>
+<p><img class="center" src="http://oesping.github.io/images/self/dog.jpg" width="600" height="400" title="screen" ></p></blockquote>
 ]]></content>
   </entry>
   
@@ -41,10 +41,12 @@
     <link href="http://oesping.github.io/blog/2013/06/07/new-life/"/>
     <updated>2013-06-07T23:45:00+08:00</updated>
     <id>http://oesping.github.io/blog/2013/06/07/new-life</id>
-    <content type="html"><![CDATA[<p>   it&rsquo;s true that i&rsquo;ve lost myself in last 4 years. i waste my most time in wondering around,this lead to the blog&rsquo;s name.
-that&rsquo;s why i choose &ldquo;wonder around lose kernel&rdquo;.
-   people always say none of us can live without dreams. those who have a beautiful dream can creat a beautiful life .But when the first time we met real life,everthing changed.
-   it&rsquo;s ture that i have many problems with communicating . it cause very big problems in my real life,especially recent years, i could not walk away from depressing and self-imposed.</p>
+    <content type="html"><![CDATA[<h2>wonder</h2>
+
+<blockquote><p>it&rsquo;s true that i&rsquo;ve lost myself in last 4 years. i waste my most time in wondering around,this lead to the blog&rsquo;s name.
+<em>that&rsquo;s why i choose &ldquo;wonder around lose kernel&rdquo;.
+</em>people always say none of us can live without dreams. those who have a beautiful dream can creat a beautiful life .But when the first time we met real life,everthing changed.
+*it&rsquo;s ture that i have many problems with communicating . it cause very big problems in my real life,especially recent years, i could not walk away from depressing and self-imposed.</p></blockquote>
 ]]></content>
   </entry>
   
@@ -53,9 +55,7 @@ that&rsquo;s why i choose &ldquo;wonder around lose kernel&rdquo;.
     <link href="http://oesping.github.io/blog/2013/05/27/idl-problem/"/>
     <updated>2013-05-27T20:56:00+08:00</updated>
     <id>http://oesping.github.io/blog/2013/05/27/idl-problem</id>
-    <content type="html"><![CDATA[<p><img class="left" src="http://oesping.github.io/images/self/fish.jpg" width="350" height="400" title="screen" ></p>
-
-<p>goes sat from 1 to 15,give a full observe of the sun and the earth</p>
+    <content type="html"><![CDATA[<h2>goes sat from 1 to 15,give a full observe of the sun and the earth</h2>
 ]]></content>
   </entry>
   
@@ -65,7 +65,7 @@ that&rsquo;s why i choose &ldquo;wonder around lose kernel&rdquo;.
     <updated>2013-05-26T21:01:00+08:00</updated>
     <id>http://oesping.github.io/blog/2013/05/26/test-of-me</id>
     <content type="html"><![CDATA[<p>pic show
-<img class="right" src="http://oesping.github.io/images/self/quote.jpg" width="150" height="250" title="Place Kitten #3" >
+<img class="right" src="http://oesping.github.io/images/self/quote.jpg" width="350" height="400" title="Place Kitten #3" >
 <img class="left" src="http://oesping.github.io/images/self/fish.jpg" width="350" height="400" title="'image''images'" ></p>
 ]]></content>
   </entry>
@@ -86,30 +86,32 @@ This is a my loved things on web .</p>
           <td>  mainland    </td>    <td>     douban   </td>   <td>   weibo     </td>   <td>   Bybh   </td>
      </tr>
      <tr>
-          <td>  UI          </td>   <td>    skype      qq,icq       gtalk   </td>
+          <td>  UI             </td>   <td>    skype        </td>   <td>   qq,icq     </td>   <td>    gtalk   </td>
      </tr>
      <tr>
-          <td>  language   </td>  <td>     IDL        word         python</td>
+          <td>  language    </td>  <td>     IDL           </td>   <td>    word        </td>   <td>   python</td>
      </tr>
      <tr>
-          <td>  major      </td>  <td>     OE         ASTRO         &#8230;..</td>
+          <td>  major        </td>  <td>     OE            </td>   <td>   ASTRO        </td>   <td>     &#8230;..</td>
      </tr>
 </table>
 
 
 <p>;;</p>
 
+<h2>push</h2>
+
 <p> things always changes, time always gone,every people should know how to slove the problem in our ways.</p>
 
-<p> we can&rsquo;t change the world in short time,but we can do it after time past.</p>
+<p> *we can&rsquo;t change the world in short time,but we can do it after time past.</p>
 
-<p> i dare not change my fucking fool life style,so i make myself down.</p>
+<p> *i dare not change my fucking fool life style,so i make myself down.</p>
 
-<p> BUT,i know that people always failed and depressed without truely work hard.</p>
+<p> *BUT,i know that people always failed and depressed without truely work hard.</p>
 
-<p> loser always here and there .</p>
+<p> *loser always here and there .</p>
 
-<p> so how about a little change!!</p>
+<blockquote><p>so how about a little change!!</p></blockquote>
 ]]></content>
   </entry>
   
