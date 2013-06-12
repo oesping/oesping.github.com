@@ -4,7 +4,7 @@
   <title><![CDATA[Walk around lose kernel]]></title>
   <link href="http://oesping.github.io/atom.xml" rel="self"/>
   <link href="http://oesping.github.io/"/>
-  <updated>2013-06-10T23:54:09+08:00</updated>
+  <updated>2013-06-13T00:13:55+08:00</updated>
   <id>http://oesping.github.io/</id>
   <author>
     <name><![CDATA[Ping]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[data analysis]]></title>
+    <link href="http://oesping.github.io/blog/2013/06/12/data-analysis/"/>
+    <updated>2013-06-12T23:18:00+08:00</updated>
+    <id>http://oesping.github.io/blog/2013/06/12/data-analysis</id>
+    <content type="html"><![CDATA[<hr />
+
+<h2>data analysis [goes light curve]</h2>
+
+<ul>
+<li>what is <a href="http://goes.gsfc.nasa.gov/">GOES</a></li>
+<li>what goes light <a href="http://www.swpc.noaa.gov/index.html">curve</a> looks like</li>
+<li>about the <a href="http://hesperia.gsfc.nasa.gov/rhessidatacenter/complementary_data/goes.html">sswidl</a> of goes
+how to set noise level ,mostly we set a noise level under 3 sigma.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[前途?]]></title>
+    <link href="http://oesping.github.io/blog/2013/06/12/qian-tu/"/>
+    <updated>2013-06-12T23:17:00+08:00</updated>
+    <id>http://oesping.github.io/blog/2013/06/12/qian-tu</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[postcrosing]]></title>
